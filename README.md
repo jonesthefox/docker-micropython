@@ -116,6 +116,10 @@ docker rmi micropython-docker
 - [MicroPython Documentation](https://docs.micropython.org/en/latest/)
 - [MicroPython GitHub Repository](https://github.com/micropython/micropython)
 
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
